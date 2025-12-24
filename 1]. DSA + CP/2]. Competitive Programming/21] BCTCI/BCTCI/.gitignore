@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files for Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# IntelliJ IDEA / Eclipse / NetBeans project files
+.idea/
+*.iws
+*.ipr
+*.bak
+*.swp
+*.tmp
+*.log
+*.sublime-workspace
+*.sublime-project
+*.classpath
+*.project
+.settings/
+
+# C++ build files
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dll
+*.dylib
+*.out
+*.exe
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# VS Code settings
+.vscode/
+
+# Test & Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Others
+*.bak
+*.swp
+*.tmp
+*.log
